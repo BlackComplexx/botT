@@ -1,2 +1,2 @@
 # botT
-Bot test
+Bot treding binance
